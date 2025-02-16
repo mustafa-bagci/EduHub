@@ -15,7 +15,7 @@ Welcome to the repository for the **Educational Website** built with Next.js! Th
 
 - **Next.js**: A React framework for server-side rendering and static site generation.
 - **React**: A JavaScript library for building user interfaces.
-- **Tailwind CSS**: (Optional) A utility-first CSS framework for styling.
+- **Tailwind CSS**: A utility-first CSS framework for styling.
 - **Node.js**: Backend runtime environment.
 - **Vercel**: Deployment platform for Next.js applications.
 
@@ -77,13 +77,12 @@ Here’s an overview of the project structure:
 
 ```
 educational-website-nextjs/
+├── app/              # Application routes and pages
 ├── components/       # Reusable React components
-├── pages/            # Next.js pages and routing
 ├── public/           # Static assets (images, fonts, etc.)
 ├── styles/           # Global and component-specific styles
-├── utils/            # Utility functions and helpers
 ├── .env.local        # Environment variables
-├── next.config.js    # Next.js configuration
+├── next.config.mjs   # Next.js configuration
 ├── package.json      # Project dependencies
 └── README.md         # Project documentation
 ```
