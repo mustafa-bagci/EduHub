@@ -1,4 +1,4 @@
-# Educational Website - Next.js
+# Educational Website
 
 Welcome to the repository for the **Educational Website** built with Next.js! This project is designed to provide an interactive and user-friendly platform for learning and education. Whether you're a developer, educator, or learner, this website aims to deliver a seamless experience.
 
