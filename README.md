@@ -17,7 +17,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/educational-website-nextjs.git
+   git clone https://github.com/mustafa-bagci/educational-website-nextjs.git
    ```
 2. **Navigate to the project directory**:
    ```bash
