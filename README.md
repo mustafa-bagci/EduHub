@@ -1,8 +1,8 @@
-# Educational Website
+# EduHub 
 
 ![Project Screenshot](edu-homepage.png)
 
-This project is an educational website built using Next.js. It aims to provide a platform for learning various subjects through interactive content and resources.
+This project is an EduHub project built using Next.js. It aims to provide a platform for learning various subjects through interactive content and resources.
 
 ## Features
 
@@ -17,11 +17,11 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/mustafa-bagci/educational-website-nextjs.git
+   git clone https://github.com/mustafa-bagci/EduHub.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd educational-website-nextjs
+   cd EduHub
    ```
 3. **Install dependencies**:
    ```bash
