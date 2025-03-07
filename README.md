@@ -8,8 +8,6 @@ This project is an EduHub project built using Next.js. It aims to provide a plat
 
 - **Interactive Lessons**: Engaging and interactive lessons on various topics.
 - **Responsive Design**: Optimized for different devices and screen sizes.
-- **User Authentication**: Secure login and registration system.
-- **Content Management**: Easy-to-use interface for managing content.
 
 ## Getting Started
 
